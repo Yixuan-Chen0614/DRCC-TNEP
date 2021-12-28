@@ -1,4 +1,4 @@
-# DRCC-TNEP
+# CTNEP
 
 This repository contains paramters and source codes in the case studies of our work entitled 
-## Transmission Network Expansion Considering Distribution Evolutions under Climate Change:  A Data-driven Robust Chance-Constrained Approach, Yixuan Chen, Yunhe Hou ##
+## Climate-adaptive Transmission Network Expansion Planning Considering Evolutions of Wind Resources and Load Demands, Yixuan Chen, Yunhe Hou ##
