@@ -2,7 +2,7 @@
 
 This repository contains paramters and source codes in the case studies of our work entitled 
 
-## Climate-adaptive Transmission Network Expansion Planning Considering Evolutions, Yixuan Chen, Zongpeng Song, Yunhe Hou ##
+## Climate-adaptive Transmission Network Expansion Planning Considering Evolutions of Resources, Yixuan Chen, Zongpeng Song, Yunhe Hou ##
 
 
 
