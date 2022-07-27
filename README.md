@@ -12,6 +12,6 @@ Directories for the contents in the paper are as follows.
 | Fig. 4. Statistics of load data in Australian NEM during 2015–2020. |  CTNEP/Justification of adding budgets/Analyze historical data of five regions in AUS NEM.ipynb} |
 | TABLE III Quantification of five-year climate-driven evolutions |   CTNEP/Estimation of d/By historical evolutionary trajectory |
 | Data preparation for the modified IEEE 24-bus system | CTNEP/Estimation of d/By historical evolutionary trajectory/Estimate_Wasserstein_distance_IEEE24.ipynb|
-| Data preparation for  the modified IEEE 118-bus system | ./Estimation of d/By forecast evolutionary trajectory|
+| Data preparation for  the modified IEEE 118-bus system | CTNEP/Estimation of d/By forecast evolutionary trajectory|
 |Fig. 9. Quantiﬁcation of ten-year climate-driven evolutions in the 108 forecast evolutionary trajectories | CTNEP/Estimation of d/By forecast evolutionary trajectory/|
 
